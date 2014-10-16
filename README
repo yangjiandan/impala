@@ -22,3 +22,4 @@ build scripts and binaries rely on.
 Building
 -----------------------------------------------------------------------------------------
 The to build the full source tree run ./buildall.sh
+for testing
